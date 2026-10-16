@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository is archived and is no longer maintained. wasmCloud 1.x is fully deprecated and receives no bug fixes or security updates.
+> For current wasmCloud development and deployment tooling, see [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) and the [current documentation](https://wasmcloud.com/docs/).
+
 # wadm-operator
 
 > **Note**: This operator is for wasmCloud v1 only and is not compatible with wasmCloud v2.
